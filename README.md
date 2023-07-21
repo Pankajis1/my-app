@@ -1,3 +1,12 @@
+# This is a practise project
+
+This is a practise project with use of simple useState hook, also an intereactive "FORM" and several interactive design elements which shows transition in color, size and shape on hover.
+
+# Lot of other commits will be added with time
+
+A lot of other features of react will be added as I keep on going.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
